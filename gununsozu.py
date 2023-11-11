@@ -2,7 +2,7 @@
 from random import choice
 from tkinter import *
 
-gununSozleri = ["Zor iş yoktur, başlanmayan iş vardır!", "Dost acı söylemez, yanında olur!", "Diyet her zaman Pazartesi başlar", "Sen bir pizza değilsin, kimseyi mutlu edemezsin!", "En güzel Perşembe sabahları Orçun Hocayla başlar!"]
+gununSozleri = ["Kendi kalbinin sesini dinleyenler bilgeliğe erişirler!", "Kediler psikopattır!", "Canın sıkıldıysa pasta ye", "Sen bir pizza değilsin, kimseyi mutlu edemezsin!", "En güzel sabahlar Nutella ile başlar!"]
 
 goster = Tk()
 
